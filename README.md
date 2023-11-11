@@ -7,7 +7,7 @@ Dieses Projekt ist eine einfache Webanwendung, die Posts rendert. Die Posts werd
 - **Interaktion mit Posts**: Benutzer können auf das Bild oder den Like-Button eines Posts klicken, um die Anzahl der Likes zu erhöhen.
 
 ## Vorschau
-![Projekt-Screenshot](Oldagram.png)
+![Projekt-Screenshot](Oldagra.png)
 
 ## Technologien
 - HTML
