@@ -12,5 +12,5 @@ Dieses Projekt ist eine einfache Webanwendung, die Posts rendert. Die Posts werd
 ## Technologien
 - HTML
 - CSS
-- JavaScript
+- Java
 
